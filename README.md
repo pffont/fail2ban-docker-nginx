@@ -1,5 +1,5 @@
 # fail2ban-docker-nginx
-This repository has some example files to protect your docker (nginx) container using fail2ban runnin on your host. 
+This repository has some example files to protect your docker (nginx) container using Fail2ban (0.11) running on your host. The files are basic examples, and these are just to show how you can protect the containers using Fail2ban.
 
 ## The scenario
 
